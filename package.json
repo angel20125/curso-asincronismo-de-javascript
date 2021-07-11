@@ -1,0 +1,30 @@
+{
+	"name": "curso-asincronismo-de-javascript",
+	"version": "1.0.0",
+	"description": "trabajar con asincronismo con JavaScript",
+	"main": "src/index.js",
+	"scripts": {
+		"callback:asincrono": "node src/callback/callback-estructura-asincrono.js",
+		"callback:sincrono": "node src/callback/callback-estructura-sincrono.js",
+		"callback:challange": "node src/callback/rick-and-mortis-callback.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/angel20125/curso-asincronismo-de-javascript.git"
+	},
+	"keywords": [
+		"callback",
+		"promise",
+		"async-await"
+	],
+	"author": "Angel Quintero",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/angel20125/curso-asincronismo-de-javascript/issues"
+	},
+	"homepage": "https://github.com/angel20125/curso-asincronismo-de-javascript#readme",
+	"dependencies": {
+		"xmlhttprequest": "^1.8.0"
+	}
+}

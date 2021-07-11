@@ -7,6 +7,8 @@
 		"callback:asincrono": "node src/callback/callback-estructura-asincrono.js",
 		"callback:sincrono": "node src/callback/callback-estructura-sincrono.js",
 		"callback:challange": "node src/callback/rick-and-mortis-callback.js",
+		"promise": "node src/promises/promesas-estructura.js",
+		"promise:challange": "node src/promises/rick-and-mortis-promise.js",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {

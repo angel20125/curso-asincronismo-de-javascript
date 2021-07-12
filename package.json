@@ -9,6 +9,8 @@
 		"callback:challange": "node src/callback/rick-and-mortis-callback.js",
 		"promise": "node src/promises/promesas-estructura.js",
 		"promise:challange": "node src/promises/rick-and-mortis-promise.js",
+		"async-await": "node src/promises-with-async-await/async-await-estructura.js",
+		"async-await:challange": "node src/promises-with-async-await/rick-and-mortis-asyc-await",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
